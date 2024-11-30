@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import Skill from "../components/Skill";
 import Skip from "../components/Skip";
 import Header from "../components/Header";
